@@ -10,21 +10,21 @@ I mostly work with Java, Python and Cloud-Native technologies.☁️🚀
 
 
 <p float="left">
-  <a href="https://www.python.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/ayedaemon/ayedaemon/master/assets/java.gif"  height="90" />
+  <a href="https://www.java.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/a19singh/a19singh/master/assets/java.gif"  height="90" />
   </a>
-  <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/ayedaemon/ayedaemon/master/assets/python.gif"  height="80" />
+  <a href="https://www.python.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/a19singh/a19singh/master/assets/python.gif"  height="80" />
   </a>
   <br>
   <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/ayedaemon/ayedaemon/master/assets/docker.gif"  height="80" />
+    <img src="https://raw.githubusercontent.com/a19singh/a19singh/master/assets/docker.gif"  height="80" />
   </a>
   <a href="https://www.ansible.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/ayedaemon/ayedaemon/master/assets/ansible.png" width="120" />
+    <img src="https://raw.githubusercontent.com/a19singh/a19singh/master/assets/ansible.png" width="120" />
   </a>
   <a href="https://www.jenkins.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/ayedaemon/ayedaemon/master/assets/jenkins.png"  height=70/>
+    <img src="https://raw.githubusercontent.com/a19singh/a19singh/master/assets/jenkins.png"  height=70/>
   </a>
   <br>
   <br />

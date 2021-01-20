@@ -40,3 +40,6 @@ I mostly work with Java, Python and Cloud-Native technologies.☁️🚀
 <br><hr><br>
 
   [![Astitva's github stats](https://github-readme-stats.vercel.app/api?username=a19singh)](https://github.com/a19singh/github-readme-stats)
+  <div style="display: inline-block;">
+        <img width="350" img align="center" alt="a19singh's toplang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a19singh&theme=vue&layout=compact&hide_border=true&count_private=true" class="responsive"/>
+    </div>

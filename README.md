@@ -23,6 +23,7 @@ I mostly work with Java, Python and Cloud-Native technologies.☁️🚀
   <a href="https://www.ansible.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/a19singh/a19singh/master/assets/ansible.png" width="120" />
   </a>
+  <br />
   <a href="https://www.jenkins.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/a19singh/a19singh/master/assets/jenkins.png"  height="120"/>
   </a>

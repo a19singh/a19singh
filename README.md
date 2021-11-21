@@ -26,6 +26,9 @@ I mostly work with Java, Python and Cloud-Native technologies.☁️🚀
   <a href="https://www.jenkins.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/a19singh/a19singh/master/assets/jenkins.png"  height="120"/>
   </a>
+  <a href="https://www.djangoproject.com/" target="_blank" >
+    <img src="https://www.edgica.com/wp-content/files/django-logo-big.jpg"  height="120"/>
+  </a>
   <br>
   <br />
 

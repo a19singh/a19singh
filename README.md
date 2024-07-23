@@ -4,21 +4,25 @@
 Bachelor of Technology ( B. Tech ) degree in Computer Science and Engineering ( Graduating in 2020 ).I mostly work
 on Backend development with Python and Cloud-Native technologies. -->
 
-I am [Astitva Singh](https://www.linkedin.com/in/astitva-singh-4a21b8145/), a Computer Science Engineering Student from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in Devops and Automation. 🎯
+I am [Astitva Singh](https://www.linkedin.com/in/singh19astitva/), an experienced in Software Developer, from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;specializes in the Back End technologies,willing and able to learn new technologies fast and works great with others.. 🎯
 
-I mostly work with Java, Python and Cloud-Native technologies.☁️🚀
+I mostly work with Python and Cloud-Native technologies.☁️🚀
 
 
 <p float="left">
-  <a href="https://www.java.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/a19singh/a19singh/master/assets/java.gif"  height="120" />
-  </a>
+
   <a href="https://www.python.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/a19singh/a19singh/master/assets/python.gif"  height="120" />
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" >
+    <img src="https://www.edgica.com/wp-content/files/django-logo-big.jpg"  height="120"/>
   </a>
   <br>
   <a href="https://www.docker.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/a19singh/a19singh/master/assets/docker.gif"  height="120" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/a19singh/a19singh/master/assets/k8s.gif"  height="120" />
   </a>
   <a href="https://www.ansible.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/a19singh/a19singh/master/assets/ansible.png" width="120" />
@@ -27,8 +31,8 @@ I mostly work with Java, Python and Cloud-Native technologies.☁️🚀
   <a href="https://www.jenkins.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/a19singh/a19singh/master/assets/jenkins.png"  height="120"/>
   </a>
-  <a href="https://www.djangoproject.com/" target="_blank" >
-    <img src="https://www.edgica.com/wp-content/files/django-logo-big.jpg"  height="120"/>
+  <a href="https://www.java.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/a19singh/a19singh/master/assets/java.gif"  height="120" />
   </a>
   <br>
   <br />
@@ -37,7 +41,7 @@ I mostly work with Java, Python and Cloud-Native technologies.☁️🚀
 ### 📫 How to reach me?
 <br>
 
-  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/astitva-singh-4a21b8145/) 👨🏻‍💻 <br>
+  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/singh19astitva/) 👨🏻‍💻 <br>
   ⦿ Follow me on [Twitter](https://twitter.com/singh_astitva) 🐦 <br>
   ⦿ Shoot Me an [Email](mailto:astitvasingh19@gmail.com) 💌 <br>
 
